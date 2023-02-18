@@ -23,13 +23,18 @@ button {
   border: 1px solid #5f9341;
 }
 
+button:hover {
+  background-color: #26540b;
+}
+
 #delete-button {
   background-color: white;
   color: #5f9341;
 }
 
-button:hover {
-  background-color: #26540b;
+#delete-button:hover {
+  background-color: rgb(147, 144, 144);
+  color: #9cf86b;
 }
 
 ul {
